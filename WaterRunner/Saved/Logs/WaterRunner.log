@@ -1304,3 +1304,459 @@ LogInit: Object subsystem initialized
 [2018.03.14-01.12.06:552][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/GamePlayLevel_Auto1.umap
 [2018.03.14-01.12.06:558][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GamePlayLevel' took 0.204
 [2018.03.14-01.12.06:558][593]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2018.03.14-01.26.06:653][883]LogSavePackage: Save=140.60ms
+[2018.03.14-01.26.06:653][883]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevel_Auto257B45EDF458C3BC213742DB55E25B7A7.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/GamePlayLevel_Auto2.umap'
+[2018.03.14-01.26.06:656][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/GamePlayLevel_Auto2.umap
+[2018.03.14-01.26.06:658][883]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GamePlayLevel' took 0.183
+[2018.03.14-01.26.06:658][883]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.183
+[2018.03.14-01.26.06:660][883]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bucket_BP] ([1] browsable assets)...
+[2018.03.14-01.26.06:660][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bucket_BP]
+[2018.03.14-01.26.06:807][883]LogSavePackage: Save=131.31ms
+[2018.03.14-01.26.06:807][883]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Bucket_BP_Auto21F7A847842B9FC1CA93B839CA76C7F0F.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/Bucket_BP_Auto2.uasset'
+[2018.03.14-01.26.06:810][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/Bucket_BP_Auto2.uasset
+[2018.03.14-01.26.06:811][883]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WaterSurface_BP] ([1] browsable assets)...
+[2018.03.14-01.26.06:848][883]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/WaterSurface_BP.WaterSurface_BP]
+[2018.03.14-01.26.06:848][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/WaterSurface_BP]
+[2018.03.14-01.26.06:923][883]LogSavePackage: Save=58.73ms
+[2018.03.14-01.26.06:923][883]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/WaterSurface_BP_Auto27FD451934AC0E60A13B081B74F4F25A3.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/WaterSurface_BP_Auto2.uasset'
+[2018.03.14-01.26.06:925][883]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Autosaves/Game/WaterSurface_BP_Auto2.uasset
+[2018.03.14-01.26.06:925][883]LogFileHelpers: Auto-saving content packages took 0.266
+[2018.03.14-01.26.23:920][886]LogSavePackage: Save=39.16ms
+[2018.03.14-01.26.23:920][886]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/WaterSurface_BPB27D04C448F31AB06E5E2B9C49D98650.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/WaterSurface_BP.uasset'
+[2018.03.14-01.26.23:927][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/WaterSurface_BP.uasset
+[2018.03.14-01.26.26:646][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.14-01.26.26:671][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.26.26:671][ 49]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.14-01.26.26:678][ 49]LogPlayLevel: [PlayLevel] Compiling WaterSurface_BP before play...
+[2018.03.14-01.26.27:670][ 49]LogPlayLevel: PlayLevel: Blueprint regeneration took 998 ms (1 blueprints)
+[2018.03.14-01.26.27:670][ 49]PIE: New page: PIE session: GamePlayLevel (Mar 13, 2018, 5:26:27 PM)
+[2018.03.14-01.26.27:670][ 49]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GamePlayLevel
+[2018.03.14-01.26.27:672][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2018.03.14-01.26.27:672][ 49]LogAIModule: Creating AISystem for world GamePlayLevel
+[2018.03.14-01.26.27:672][ 49]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2018.03.14-01.26.27:673][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GamePlayLevel.GamePlayLevel to /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel (0.002546s)
+[2018.03.14-01.26.27:693][ 49]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-01.26.27:706][ 49]LogInit: FAudioDevice initialized.
+[2018.03.14-01.26.27:735][ 49]LogLoad: Game class is 'GameModeBase'
+[2018.03.14-01.26.27:737][ 49]LogWorld: Bringing World /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel up for play (max tick rate 60) at 2018.03.13-21.26.27
+[2018.03.14-01.26.27:737][ 49]LogWorld: Bringing up level for play took: 0.001257
+[2018.03.14-01.26.27:739][ 49]PIE: Play in editor start time for /Game/UEDPIE_0_GamePlayLevel 0.306
+[2018.03.14-01.26.27:739][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.26.45:762][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.26.45:818][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.26.51:319][446]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.03.14-01.26.57:775][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.14-01.26.57:800][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.26.57:800][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-01.26.57:800][825]PIE: New page: PIE session: GamePlayLevel (Mar 13, 2018, 5:26:57 PM)
+[2018.03.14-01.26.57:800][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GamePlayLevel
+[2018.03.14-01.26.57:802][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2018.03.14-01.26.57:803][825]LogAIModule: Creating AISystem for world GamePlayLevel
+[2018.03.14-01.26.57:803][825]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.03.14-01.26.57:803][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GamePlayLevel.GamePlayLevel to /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel (0.003263s)
+[2018.03.14-01.26.57:848][825]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-01.26.57:861][825]LogInit: FAudioDevice initialized.
+[2018.03.14-01.26.57:895][825]LogLoad: Game class is 'GameModeBase'
+[2018.03.14-01.26.57:897][825]LogWorld: Bringing World /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel up for play (max tick rate 60) at 2018.03.13-21.26.57
+[2018.03.14-01.26.57:897][825]LogWorld: Bringing up level for play took: 0.001220
+[2018.03.14-01.26.57:898][825]PIE: Play in editor start time for /Game/UEDPIE_0_GamePlayLevel 0.466
+[2018.03.14-01.26.57:899][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.05:559][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.05:595][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.19:035][ 33]LogSavePackage: Save=48.03ms
+[2018.03.14-01.27.19:035][ 33]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/WaterSurface_BP61437179432802EAC5BD33B2CCC8F3EC.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/WaterSurface_BP.uasset'
+[2018.03.14-01.27.19:040][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/WaterSurface_BP.uasset
+[2018.03.14-01.27.20:054][ 76]LogSavePackage: Save=144.73ms
+[2018.03.14-01.27.20:054][ 76]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevel3DBC55224916B0C286E6259E1C24AA4E.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel.umap'
+[2018.03.14-01.27.20:062][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel.umap
+[2018.03.14-01.27.20:114][ 76]LogSavePackage: Save=8.40ms
+[2018.03.14-01.27.20:114][ 76]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevel_BuiltData9C1CB17C4BB55785809DD7B23F260035.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel_BuiltData.uasset'
+[2018.03.14-01.27.20:116][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel_BuiltData.uasset
+[2018.03.14-01.27.22:885][232]BlueprintLog: New page: Compile WaterSurface_BP
+[2018.03.14-01.27.25:958][351]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.14-01.27.25:985][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.25:986][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-01.27.25:986][351]PIE: New page: PIE session: GamePlayLevel (Mar 13, 2018, 5:27:25 PM)
+[2018.03.14-01.27.25:986][351]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GamePlayLevel
+[2018.03.14-01.27.25:987][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001724s)
+[2018.03.14-01.27.25:988][351]LogAIModule: Creating AISystem for world GamePlayLevel
+[2018.03.14-01.27.25:988][351]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.03.14-01.27.25:988][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GamePlayLevel.GamePlayLevel to /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel (0.002773s)
+[2018.03.14-01.27.26:007][351]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-01.27.26:019][351]LogInit: FAudioDevice initialized.
+[2018.03.14-01.27.26:051][351]LogLoad: Game class is 'GameModeBase'
+[2018.03.14-01.27.26:053][351]LogWorld: Bringing World /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel up for play (max tick rate 60) at 2018.03.13-21.27.26
+[2018.03.14-01.27.26:053][351]LogWorld: Bringing up level for play took: 0.001155
+[2018.03.14-01.27.26:054][351]PIE: Play in editor start time for /Game/UEDPIE_0_GamePlayLevel 0.622
+[2018.03.14-01.27.26:055][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.37:030][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.37:067][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.27.38:384][ 86]Cmd: SELECT NONE
+[2018.03.14-01.28.28:109][  4]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.14-01.28.28:129][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.28.28:129][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-01.28.28:130][  4]PIE: New page: PIE session: GamePlayLevel (Mar 13, 2018, 5:28:28 PM)
+[2018.03.14-01.28.28:130][  4]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GamePlayLevel
+[2018.03.14-01.28.28:131][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001637s)
+[2018.03.14-01.28.28:132][  4]LogAIModule: Creating AISystem for world GamePlayLevel
+[2018.03.14-01.28.28:132][  4]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.03.14-01.28.28:132][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GamePlayLevel.GamePlayLevel to /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel (0.002520s)
+[2018.03.14-01.28.28:152][  4]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-01.28.28:164][  4]LogInit: FAudioDevice initialized.
+[2018.03.14-01.28.28:202][  4]LogLoad: Game class is 'GameModeBase'
+[2018.03.14-01.28.28:203][  4]LogWorld: Bringing World /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel up for play (max tick rate 60) at 2018.03.13-21.28.28
+[2018.03.14-01.28.28:204][  4]LogWorld: Bringing up level for play took: 0.001401
+[2018.03.14-01.28.28:205][  4]PIE: Play in editor start time for /Game/UEDPIE_0_GamePlayLevel 0.773
+[2018.03.14-01.28.28:205][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.29.14:844][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.29.14:902][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.29.18:603][  2]LogSavePackage: Save=123.29ms
+[2018.03.14-01.29.18:603][  2]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevelB663FBDD49A17259852753B4087EDDDD.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel.umap'
+[2018.03.14-01.29.18:608][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel.umap
+[2018.03.14-01.29.18:677][  2]LogSavePackage: Save=8.36ms
+[2018.03.14-01.29.18:677][  2]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevel_BuiltDataE74276B44CAA51EC2CCDC79B200CBA10.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel_BuiltData.uasset'
+[2018.03.14-01.29.18:679][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel_BuiltData.uasset
+[2018.03.14-01.35.11:736][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.14-01.35.11:764][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.11:764][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-01.35.11:764][633]PIE: New page: PIE session: GamePlayLevel (Mar 13, 2018, 5:35:11 PM)
+[2018.03.14-01.35.11:764][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GamePlayLevel
+[2018.03.14-01.35.11:767][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003178s)
+[2018.03.14-01.35.11:768][633]LogAIModule: Creating AISystem for world GamePlayLevel
+[2018.03.14-01.35.11:769][633]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.03.14-01.35.11:769][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GamePlayLevel.GamePlayLevel to /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel (0.004635s)
+[2018.03.14-01.35.11:801][633]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-01.35.11:819][633]LogInit: FAudioDevice initialized.
+[2018.03.14-01.35.11:865][633]LogLoad: Game class is 'GameModeBase'
+[2018.03.14-01.35.11:867][633]LogWorld: Bringing World /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel up for play (max tick rate 60) at 2018.03.13-21.35.11
+[2018.03.14-01.35.11:868][633]LogWorld: Bringing up level for play took: 0.001960
+[2018.03.14-01.35.11:870][633]PIE: Play in editor start time for /Game/UEDPIE_0_GamePlayLevel 0.438
+[2018.03.14-01.35.11:871][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.19:781][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.19:828][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.46:393][  8]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.14-01.35.46:425][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.46:425][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.14-01.35.46:426][  8]PIE: New page: PIE session: GamePlayLevel (Mar 13, 2018, 5:35:46 PM)
+[2018.03.14-01.35.46:426][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GamePlayLevel
+[2018.03.14-01.35.46:430][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004250s)
+[2018.03.14-01.35.46:431][  8]LogAIModule: Creating AISystem for world GamePlayLevel
+[2018.03.14-01.35.46:432][  8]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2018.03.14-01.35.46:432][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GamePlayLevel.GamePlayLevel to /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel (0.006394s)
+[2018.03.14-01.35.46:462][  8]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.14-01.35.46:476][  8]LogInit: FAudioDevice initialized.
+[2018.03.14-01.35.46:510][  8]LogLoad: Game class is 'GameModeBase'
+[2018.03.14-01.35.46:511][  8]LogWorld: Bringing World /Game/UEDPIE_0_GamePlayLevel.GamePlayLevel up for play (max tick rate 60) at 2018.03.13-21.35.46
+[2018.03.14-01.35.46:512][  8]LogWorld: Bringing up level for play took: 0.001232
+[2018.03.14-01.35.46:513][  8]PIE: Play in editor start time for /Game/UEDPIE_0_GamePlayLevel 1.081
+[2018.03.14-01.35.46:514][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.49:439][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.49:499][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel' with GeneratedClass '/Game/GamePlayLevel.GamePlayLevel_C' with ClassGeneratedBy '/Game/GamePlayLevel.GamePlayLevel:PersistentLevel.GamePlayLevel'
+[2018.03.14-01.35.50:762][220]LogSavePackage: Save=237.34ms
+[2018.03.14-01.35.50:762][220]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevelF7F7598C43776EE83D37B3895EBA3EC3.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel.umap'
+[2018.03.14-01.35.50:771][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel.umap
+[2018.03.14-01.35.50:883][220]LogSavePackage: Save=15.51ms
+[2018.03.14-01.35.50:883][220]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/GamePlayLevel_BuiltData2AD02C3C45E5D342FF7F16B0D72A06B7.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel_BuiltData.uasset'
+[2018.03.14-01.35.50:888][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/GamePlayLevel_BuiltData.uasset
+[2018.03.14-01.37.58:530][ 42]LogSavePackage: Save=376.98ms
+[2018.03.14-01.37.58:530][ 42]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Bucket_BP35FB4D27438F433E99EDACAA93682AB2.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/Bucket_BP.uasset'
+[2018.03.14-01.37.58:546][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/Bucket_BP.uasset
+[2018.03.14-01.37.58:997][ 42]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.14-01.37.59:123][ 42]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.14-01.37.59:601][ 43]Cmd: QUIT_EDITOR
+[2018.03.14-01.38.00:591][ 43]LogExit: Preparing to exit.
+[2018.03.14-01.38.01:154][ 43]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/' was aborted.
+[2018.03.14-01.38.01:401][ 43]LogExit: Editor shut down
+[2018.03.14-01.38.01:494][ 43]LogExit: Transaction tracking system shut down
+[2018.03.14-01.38.01:755][ 43]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.14-01.38.01:755][ 43]LogDirectoryWatcher: A directory notification for '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/' was aborted.
+[2018.03.14-01.38.01:756][ 43]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.14-01.38.01:756][ 43]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.14-01.38.01:756][ 43]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.14-01.38.01:756][ 43]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.14-01.38.01:756][ 43]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.14-01.38.01:961][ 43]LogExit: Object subsystem successfully closed.
+[2018.03.14-01.38.01:992][ 43]LogD3D11RHI: Shutdown
+[2018.03.14-01.38.01:992][ 43]LogD3D11RHI: CleanupD3DDevice
+[2018.03.14-01.38.01:997][ 43]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.14-01.38.02:018][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.03.14-01.38.02:018][ 43]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.03.14-01.38.02:018][ 43]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.14-01.38.02:018][ 43]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.14-01.38.02:018][ 43]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.14-01.38.02:018][ 43]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.14-01.38.02:025][ 43]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.14-01.38.02:025][ 43]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.14-01.38.02:025][ 43]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.14-01.38.02:025][ 43]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/Collections/' was aborted.
+[2018.03.14-01.38.02:025][ 43]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/Developers/rudra/Collections/' was aborted.
+[2018.03.14-01.38.02:025][ 43]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Collections/' was aborted.
+[2018.03.14-01.38.02:025][ 43]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.14-01.38.02:025][ 43]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.14-01.38.02:025][ 43]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.14-01.38.02:026][ 43]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.14-01.38.02:027][ 43]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.14-01.38.02:027][ 43]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.14-01.38.02:027][ 43]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.14-01.38.02:027][ 43]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.14-01.38.02:027][ 43]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.14-01.38.02:027][ 43]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.14-01.38.02:706][ 43]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.14-01.38.02:706][ 43]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.14-01.38.02:706][ 43]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.14-01.38.02:706][ 43]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.14-01.38.02:707][ 43]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.14-01.38.02:707][ 43]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.14-01.38.02:707][ 43]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.14-01.38.02:707][ 43]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.14-01.38.02:707][ 43]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.14-01.38.02:707][ 43]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.14-01.38.02:708][ 43]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.14-01.38.02:708][ 43]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.14-01.38.02:708][ 43]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.14-01.38.02:708][ 43]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.14-01.38.02:708][ 43]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.14-01.38.02:708][ 43]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.14-01.38.02:709][ 43]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.14-01.38.02:710][ 43]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.14-01.38.02:710][ 43]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.14-01.38.02:711][ 43]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.14-01.38.02:711][ 43]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.14-01.38.02:711][ 43]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.14-01.38.02:711][ 43]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.14-01.38.02:711][ 43]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.14-01.38.02:779][ 43]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.14-01.38.02:779][ 43]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.14-01.38.02:779][ 43]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.14-01.38.02:779][ 43]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.14-01.38.02:779][ 43]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.14-01.38.02:780][ 43]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.14-01.38.02:780][ 43]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.14-01.38.02:781][ 43]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.14-01.38.02:781][ 43]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.14-01.38.02:781][ 43]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.14-01.38.02:808][ 43]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.14-01.38.02:808][ 43]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.14-01.38.02:808][ 43]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.14-01.38.02:808][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.14-01.38.02:809][ 43]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.14-01.38.02:809][ 43]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.14-01.38.02:809][ 43]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.14-01.38.02:810][ 43]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.14-01.38.02:910][ 43]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.14-01.38.02:911][ 43]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.14-01.38.02:912][ 43]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.14-01.38.02:912][ 43]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.14-01.38.02:913][ 43]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.14-01.38.02:913][ 43]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.14-01.38.02:913][ 43]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.14-01.38.02:914][ 43]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.14-01.38.03:015][ 43]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.14-01.38.03:116][ 43]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.14-01.38.03:116][ 43]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.14-01.38.03:116][ 43]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.14-01.38.03:116][ 43]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.14-01.38.03:116][ 43]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.14-01.38.03:116][ 43]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.14-01.38.03:122][ 43]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.14-01.38.03:122][ 43]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.14-01.38.03:122][ 43]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.14-01.38.03:122][ 43]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.14-01.38.03:129][ 43]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.14-01.38.03:129][ 43]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.14-01.38.03:130][ 43]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.14-01.38.03:130][ 43]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.14-01.38.03:130][ 43]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.14-01.38.03:130][ 43]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.14-01.38.03:137][ 43]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.14-01.38.03:137][ 43]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.14-01.38.03:137][ 43]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.14-01.38.03:137][ 43]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.14-01.38.03:137][ 43]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.14-01.38.03:138][ 43]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.14-01.38.03:139][ 43]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.14-01.38.03:139][ 43]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.14-01.38.03:139][ 43]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.14-01.38.03:140][ 43]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.14-01.38.03:149][ 43]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.14-01.38.03:170][ 43]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.14-01.38.03:170][ 43]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.14-01.38.03:170][ 43]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.14-01.38.03:170][ 43]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.14-01.38.03:171][ 43]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.14-01.38.03:171][ 43]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.14-01.38.03:171][ 43]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.14-01.38.03:171][ 43]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.14-01.38.03:171][ 43]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.14-01.38.03:261][ 43]LogDerivedDataCache: Shutdown
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.14-01.38.03:261][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.14-01.38.03:262][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.14-01.38.03:262][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.14-01.38.03:262][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.14-01.38.03:262][ 43]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.14-01.38.03:262][ 43]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.14-01.38.03:262][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.14-01.38.03:263][ 43]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.14-01.38.03:264][ 43]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.14-01.38.03:265][ 43]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.14-01.38.03:265][ 43]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.14-01.38.03:265][ 43]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.14-01.38.03:265][ 43]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.14-01.38.03:265][ 43]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.14-01.38.03:266][ 43]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.14-01.38.03:267][ 43]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.14-01.38.03:267][ 43]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.14-01.38.03:267][ 43]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.14-01.38.03:267][ 43]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.14-01.38.03:267][ 43]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.03.14-01.38.03:267][ 43]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2063A632-4CC9-223F-EE7F-C79D4FF1959F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f53795d748fab136336c728077b84937%7C89841296403e4bcab15f22abaa4805e2%7C21e2bc3e-fe4a-4705-b0a4-3e8c393e162c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.14-01.38.03:267][ 43]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2063A632-4CC9-223F-EE7F-C79D4FF1959F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f53795d748fab136336c728077b84937%7C89841296403e4bcab15f22abaa4805e2%7C21e2bc3e-fe4a-4705-b0a4-3e8c393e162c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.14-01.38.03:286][ 43]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.14-01.38.03:292][ 43]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.14-01.38.03:292][ 43]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.14-01.38.03:292][ 43]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.14-01.38.03:293][ 43]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.14-01.38.03:294][ 43]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.14-01.38.03:294][ 43]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.14-01.38.03:294][ 43]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.14-01.38.03:306][ 43]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.14-01.38.03:315][ 43]LogExit: Exiting.
+[2018.03.14-01.38.03:373][ 43]Log file closed, 03/13/18 21:38:03
