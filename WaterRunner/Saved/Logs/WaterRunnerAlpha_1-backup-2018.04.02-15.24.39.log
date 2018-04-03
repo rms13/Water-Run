@@ -1,0 +1,1075 @@
+﻿Log file open, 04/02/18 14:44:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: WaterRunnerAlpha_1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1464845521) SRandInit(1464845521).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211541
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.02-18.44.09:732][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.02-18.44.09:732][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.02-18.44.09:747][  0]LogInit: Computer: RUDRAKSHA
+[2018.04.02-18.44.09:748][  0]LogInit: User: rudra
+[2018.04.02-18.44.09:748][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.02-18.44.09:748][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.04.02-18.44.09:748][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.02-18.44.09:748][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.02-18.44.09:748][  0]LogMemory: Process Physical Memory: 273.06 MB used, 273.06 MB peak
+[2018.04.02-18.44.09:748][  0]LogMemory: Process Virtual Memory: 270.07 MB used, 270.07 MB peak
+[2018.04.02-18.44.09:748][  0]LogMemory: Physical Memory: 10444.32 MB used,  5791.62 MB free, 16235.95 MB total
+[2018.04.02-18.44.09:748][  0]LogMemory: Virtual Memory: 682.53 MB used,  5791.62 MB free, 134217728.00 MB total
+[2018.04.02-18.44.09:972][  0]LogInit: Using OS detected language (en-US).
+[2018.04.02-18.44.09:972][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.02-18.44.09:975][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.02-18.44.10:422][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.02-18.44.10:761][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.02-18.44.10:831][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.04.02-18.44.10:831][  0]LogD3D11RHI:       4031/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.02-18.44.10:844][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.02-18.44.10:844][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.02-18.44.10:847][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.02-18.44.10:847][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.02-18.44.10:847][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.02-18.44.10:860][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.02-18.44.10:860][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.04.02-18.44.10:860][  0]LogWindows: EnumDisplayDevices:
+[2018.04.02-18.44.10:860][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.02-18.44.10:860][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.02-18.44.10:860][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.02-18.44.10:860][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.02-18.44.10:860][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.04.02-18.44.10:860][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.02-18.44.10:860][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.02-18.44.10:860][  0]LogRHI: Texture pool is 2821 MB (70% of 4031 MB)
+[2018.04.02-18.44.10:895][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.02-18.44.10:908][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.02-18.44.10:909][  0]LogShaderCompilers: Guid format shader working directory is -110 characters bigger than the processId version (../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Intermediate/Shaders/WorkingDirectory/15628/).
+[2018.04.02-18.44.10:909][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rudra/AppData/Local/Temp/UnrealShaderWorkingDir/C7BCB8224668585DD5AD3A88959D79DF/'.
+[2018.04.02-18.44.10:909][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.02-18.44.12:004][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.02-18.44.12:078][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.02-18.44.12:160][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.02-18.44.12:239][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.02-18.44.12:314][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.02-18.44.12:392][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.02-18.44.12:468][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.02-18.44.12:545][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.02-18.44.12:614][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.02-18.44.12:689][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.02-18.44.12:763][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.02-18.44.12:837][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.02-18.44.12:914][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.02-18.44.12:990][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.02-18.44.13:136][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.02-18.44.13:136][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.02-18.44.13:203][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.02-18.44.13:264][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.02-18.44.13:389][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.02-18.44.13:427][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.02-18.44.13:499][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.02-18.44.13:574][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.02-18.44.13:648][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.02-18.44.13:723][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.02-18.44.13:723][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.02-18.44.14:416][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.02-18.44.14:497][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/rudra/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.02-18.44.14:497][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rudra/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.02-18.44.14:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.02-18.44.14:497][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.02-18.44.14:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.02-18.44.14:497][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.02-18.44.14:515][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.02-18.44.14:527][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rudra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.02-18.44.14:537][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.02-18.44.14:538][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.02-18.44.14:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.02-18.44.14:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.02-18.44.14:963][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.02-18.44.15:407][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.02-18.44.15:468][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.02-18.44.15:468][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.02-18.44.15:468][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.02-18.44.15:468][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.02-18.44.15:468][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.02-18.44.15:502][  0]LogNetVersion: WaterRunnerAlpha_1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1999119835)
+[2018.04.02-18.44.15:706][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.04.02-18.44.16:328][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.081312 seconds
+[2018.04.02-18.44.16:333][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.02-18.44.16:333][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.02-18.44.16:333][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.02-18.44.16:409][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.02-18.44.20:141][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.02-18.44.20:224][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.02-18.44.21:167][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.02-18.44.21:769][  0]SourceControl: Source control is disabled
+[2018.04.02-18.44.21:769][  0]SourceControl: Source control is disabled
+[2018.04.02-18.44.21:848][  0]SourceControl: Source control is disabled
+[2018.04.02-18.44.21:925][  0]SourceControl: Source control is disabled
+[2018.04.02-18.44.23:188][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.02-18.44.23:588][  0]LogOcInput: OculusInput pre-init called
+[2018.04.02-18.44.24:028][  0]LogEngine: Initializing Engine...
+[2018.04.02-18.44.24:032][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.02-18.44.24:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.02-18.44.24:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.02-18.44.24:458][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.02-18.44.24:477][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.44.24:501][  0]LogInit: FAudioDevice initialized.
+[2018.04.02-18.44.24:557][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/rudra/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.02-18.44.24:569][  0]LogInit: Texture streaming: Enabled
+[2018.04.02-18.44.24:712][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.02-18.44.24:917][  0]LogInit: Transaction tracking system initialized
+[2018.04.02-18.44.25:440][  0]BlueprintLog: New page: Editor Load
+[2018.04.02-18.44.27:005][  0]LocalizationService: Localization service is disabled
+[2018.04.02-18.44.28:222][  0]LogConsoleResponse: Display: 
+[2018.04.02-18.44.28:439][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.02-18.44.28:439][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.02-18.44.28:439][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.02-18.44.28:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/' took 0.02s
+[2018.04.02-18.44.30:194][  0]SourceControl: Source control is disabled
+[2018.04.02-18.44.30:195][  0]LightingResults: New page: Lighting Build
+[2018.04.02-18.44.30:260][  0]MapCheck: New page: Map Check
+[2018.04.02-18.44.30:260][  0]LightingResults: New page: Lighting Build
+[2018.04.02-18.44.31:318][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.02-18.44.31:329][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.02-18.44.31:345][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.02-18.44.31:420][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.601ms to complete.
+[2018.04.02-18.44.31:421][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.226
+[2018.04.02-18.44.31:604][  0]LogCollectionManager: Loaded 0 collections in 0.001942 seconds
+[2018.04.02-18.44.31:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/Collections/' took 0.01s
+[2018.04.02-18.44.31:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/Developers/rudra/Collections/' took 0.01s
+[2018.04.02-18.44.31:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/Collections/' took 0.01s
+[2018.04.02-18.44.31:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.02-18.44.31:715][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2363 classes and 519 folders.
+[2018.04.02-18.44.31:817][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.02-18.44.31:863][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.02-18.44.31:929][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.02-18.44.31:948][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.02-18.44.31:951][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.02-18.44.31:959][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.02-18.44.32:074][  0]LogRenderer: Reallocating scene render targets to support 1052x600 Format 10 NumSamples 1 (Frame:1).
+[2018.04.02-18.44.32:125][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.02-18.44.32:329][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.02-18.44.32:329][  0]LogLoad: (Engine Initialization) Total time: 25.49 seconds
+[2018.04.02-18.44.32:329][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.02-18.44.32:330][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.02-18.44.32:330][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.02-18.44.32:343][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.02-18.44.32:374][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.02-18.44.32:448][  1]LogAssetRegistry: Asset discovery search completed in 16.7634 seconds
+[2018.04.02-18.44.32:450][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.02-18.44.32:450][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.04.02-18.44.40:313][826]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.02-18.44.40:702][826]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.04.02-18.44.41:382][826]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.02-18.44.41:501][826]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.02-18.44.41:820][827]LogSlate: Took 0.000508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.02-18.45.19:136][166]LogSavePackage: Save=161.95ms
+[2018.04.02-18.45.19:136][166]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/RunCharacter651798734AD923A364E77188A3E08503.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.02-18.45.19:144][166]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.02-18.45.25:673][585]BlueprintLog: New page: Compile RunCharacter
+[2018.04.02-18.45.26:860][601]LogSavePackage: Save=170.37ms
+[2018.04.02-18.45.26:860][601]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/RunCharacter20208A47424E4012FD4E9EBD2F0A6E5C.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2018.04.02-18.45.26:867][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2018.04.02-18.45.31:001][962]LogSavePackage: Save=176.16ms
+[2018.04.02-18.45.31:001][962]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/ThirdPersonExampleMapCE03003844BA0DDE15755FB04EBF7B27.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.02-18.45.31:007][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.02-18.45.31:377][962]LogSavePackage: Save=280.49ms
+[2018.04.02-18.45.31:377][962]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/ThirdPersonExampleMap_BuiltDataE8A1E109458C22BBDEF3C083551E9FD6.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.04.02-18.45.31:379][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.04.02-18.45.32:822][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.45.32:949][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.02-18.45.32:949][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.45.32:950][ 64]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 2, 2018, 10:45:32 AM)
+[2018.04.02-18.45.32:950][ 64]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.02-18.45.32:967][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016684s)
+[2018.04.02-18.45.32:968][ 64]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.02-18.45.32:968][ 64]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.04.02-18.45.32:968][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017780s)
+[2018.04.02-18.45.33:012][ 64]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.45.33:046][ 64]LogInit: FAudioDevice initialized.
+[2018.04.02-18.45.33:753][ 64]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.45.33:756][ 64]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.02-14.45.33
+[2018.04.02-18.45.33:756][ 64]LogWorld: Bringing up level for play took: 0.001741
+[2018.04.02-18.45.33:822][ 64]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.02-18.45.33:845][ 64]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.118
+[2018.04.02-18.45.33:845][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.02-18.45.33:858][ 64]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.33:858][ 64]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:031][ 65]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:075][ 66]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:105][ 67]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:143][ 68]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:175][ 69]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:186][ 70]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:200][ 71]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:211][ 72]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:227][ 73]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:241][ 74]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:256][ 75]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:274][ 76]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:289][ 77]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:303][ 78]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.34:318][ 79]LogScript: Warning: Accessed None trying to read property Bucket
+	RunHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.RunHUD_C_0
+	Function /Game/ThirdPersonBP/UMG/RunHUD.RunHUD_C:GetPercent_0:00BF
+[2018.04.02-18.45.35:983][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.02-18.45.36:023][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.02-18.45.41:203][719]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.45.41:230][719]LightingResults: New page: Lighting Build
+[2018.04.02-18.45.41:231][719]LoadErrors: New page: Loading map: ProceduralMap.umap
+[2018.04.02-18.45.41:231][719]MapCheck: New page: Map Check
+[2018.04.02-18.45.41:231][719]LightingResults: New page: Lighting Build
+[2018.04.02-18.45.41:262][719]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.02-18.45.41:327][719]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.02-18.45.41:416][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.446ms to complete.
+[2018.04.02-18.45.41:417][719]LogFileHelpers: Loading map 'ProceduralMap' took 0.188
+[2018.04.02-18.45.42:877][839]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.45.42:920][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.45.42:920][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.45.42:920][839]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:45:42 AM)
+[2018.04.02-18.45.42:920][839]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.45.42:928][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008080s)
+[2018.04.02-18.45.42:929][839]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.45.42:929][839]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2018.04.02-18.45.42:929][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.009152s)
+[2018.04.02-18.45.42:953][839]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.45.42:966][839]LogInit: FAudioDevice initialized.
+[2018.04.02-18.45.42:997][839]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.45.42:999][839]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.45.42
+[2018.04.02-18.45.43:000][839]LogWorld: Bringing up level for play took: 0.001850
+[2018.04.02-18.45.43:024][839]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap 0.297
+[2018.04.02-18.45.43:024][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.45.43:866][893]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=195.12 Y=-89.12 Z=0.00 Location: X=1211.19 Y=45.59 Z=128.19 Normal: X=0.77 Y=-0.64 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (18 other events since notify)
+[2018.04.02-18.45.45:138][984]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=160.95 Y=0.00 Z=0.00 Location: X=2562.86 Y=38.13 Z=330.92 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (23 other events since notify)
+[2018.04.02-18.45.51:313][398]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1555.89 Y=0.00 Z=0.00 Location: X=16069.97 Y=38.13 Z=777.12 Normal: X=-0.15 Y=-0.00 Z=0.99 PenetrationDepth:0.000 Actor:BP_FloorTile_RampUp_C_3 Component:Ramp BoneName:None (19 other events since notify)
+[2018.04.02-18.45.51:758][425]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.45.55:638][657]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=25.55 Y=1580.67 Z=0.00 Location: X=20574.13 Y=6612.85 Z=298.51 Normal: X=-0.07 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.45.57:274][782]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=8.93 Z=0.00 Location: X=20574.20 Y=7905.98 Z=492.39 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (69 other events since notify)
+[2018.04.02-18.46.05:384][319]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.46.07:736][475]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-1662.98 Y=-24.88 Z=0.00 Location: X=8799.18 Y=22367.39 Z=496.70 Normal: X=-0.99 Y=-0.11 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (12 other events since notify)
+[2018.04.02-18.46.12:649][801]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=43.37 Y=-1695.48 Z=0.00 Location: X=2103.43 Y=16784.08 Z=693.97 Normal: X=0.13 Y=-0.99 Z=-0.00 PenetrationDepth:20.759 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (21 other events since notify)
+[2018.04.02-18.46.13:898][895]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-0.00 Y=-14.03 Z=0.00 Location: X=2103.49 Y=16783.59 Z=694.01 Normal: X=0.09 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (26 other events since notify)
+[2018.04.02-18.46.15:243][994]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-0.00 Y=-10.58 Z=0.00 Location: X=2103.49 Y=16783.59 Z=694.01 Normal: X=0.07 Y=-1.00 Z=-0.00 PenetrationDepth:20.759 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (2 other events since notify)
+[2018.04.02-18.46.19:792][322]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=29.06 Y=-1747.49 Z=0.00 Location: X=2251.29 Y=9047.62 Z=749.44 Normal: X=0.12 Y=-0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.46.21:879][469]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=30.66 Y=-1761.95 Z=0.00 Location: X=2378.47 Y=4774.92 Z=1065.34 Normal: X=0.08 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (23 other events since notify)
+[2018.04.02-18.46.23:157][573]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-0.00 Y=-9.21 Z=0.00 Location: X=2378.51 Y=4774.42 Z=1065.38 Normal: X=0.16 Y=-0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (64 other events since notify)
+[2018.04.02-18.46.24:168][655]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=28.80 Y=-334.32 Z=0.00 Location: X=2378.51 Y=4774.42 Z=1065.38 Normal: X=0.13 Y=-0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (81 other events since notify)
+[2018.04.02-18.46.25:171][740]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=9.98 Y=-13.41 Z=0.00 Location: X=2393.22 Y=4673.21 Z=1080.50 Normal: X=0.20 Y=-0.98 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (63 other events since notify)
+[2018.04.02-18.46.26:198][826]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-0.00 Y=-7.94 Z=0.00 Location: X=2393.22 Y=4673.21 Z=1080.50 Normal: X=-0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-18.46.30:648][118]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1624.57 Y=-596.23 Z=0.00 Location: X=6480.25 Y=-29.10 Z=1148.52 Normal: X=0.71 Y=-0.71 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.46.34:825][369]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.46.35:137][383]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.46.43:166][895]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-7.63 Y=1905.28 Z=0.00 Location: X=22737.72 Y=9184.83 Z=509.30 Normal: X=-0.04 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (6 other events since notify)
+[2018.04.02-18.46.55:093][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.46.55:136][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.48.12:015][284]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.02-18.48.25:408][986]LogLinker: Warning: Can't find file '/Game/_polySurface25Mat'
+[2018.04.02-18.48.25:408][986]LogLinker: Warning: Can't find file for asset '/Game/_polySurface25Mat' while loading ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/PowerSupply.uasset.
+[2018.04.02-18.48.25:408][986]LoadErrors: Error: /Game/PowerSupply : Can't find file for asset. /Game/_polySurface25Mat
+[2018.04.02-18.48.25:408][986]LogLinker: Warning: Can't find file '/Game/_polySurface25Mat'
+[2018.04.02-18.48.25:408][986]LogLinker: Warning: Can't find file for asset '/Game/_polySurface25Mat' while loading ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/PowerSupply.uasset.
+[2018.04.02-18.48.25:409][986]LogLinker: Warning: Can't find file '/Game/_polySurface25Mat'
+[2018.04.02-18.48.25:409][986]LoadErrors: Failed to load /Game/_polySurface25Mat._polySurface25Mat Referenced by PowerSupply
+[2018.04.02-18.48.25:409][986]LogLinker: Warning: Can't find file for asset '/Game/_polySurface25Mat' while loading NULL.
+[2018.04.02-18.48.25:410][986]LogLinker: Warning: Can't find file '/Game/_polySurface25Mat'
+[2018.04.02-18.48.25:410][986]LogLinker: Warning: Can't find file for asset '/Game/_polySurface25Mat' while loading NULL.
+[2018.04.02-18.48.39:277][744]LogLinker: Warning: Can't find file '/Game/blinn1SG'
+[2018.04.02-18.48.39:277][744]LogLinker: Warning: Can't find file for asset '/Game/blinn1SG' while loading ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/SearchLight.uasset.
+[2018.04.02-18.48.39:277][744]LoadErrors: Error: /Game/SearchLight : Can't find file for asset. /Game/blinn1SG
+[2018.04.02-18.48.39:277][744]LogLinker: Warning: Can't find file '/Game/blinn1SG'
+[2018.04.02-18.48.39:278][744]LogLinker: Warning: Can't find file for asset '/Game/blinn1SG' while loading ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/SearchLight.uasset.
+[2018.04.02-18.48.39:279][744]LogLinker: Warning: Can't find file '/Game/blinn1SG'
+[2018.04.02-18.48.39:279][744]LoadErrors: Failed to load /Game/blinn1SG.blinn1SG Referenced by SearchLight
+[2018.04.02-18.48.39:279][744]LogLinker: Warning: Can't find file for asset '/Game/blinn1SG' while loading NULL.
+[2018.04.02-18.48.39:280][744]LogLinker: Warning: Can't find file '/Game/blinn1SG'
+[2018.04.02-18.48.39:280][744]LogLinker: Warning: Can't find file for asset '/Game/blinn1SG' while loading NULL.
+[2018.04.02-18.49.43:535][800]BlueprintLog: New page: Compile BP_Blocker
+[2018.04.02-18.49.44:068][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_1.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.02-18.49.44:072][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_12.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.02-18.49.44:921][836]LogSavePackage: Save=63.57ms
+[2018.04.02-18.49.44:921][836]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_BlockerDB2AF7DA43931F29ECB7529268EA59B4.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-18.49.44:929][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-18.49.49:973][943]LogSavePackage: Save=53.95ms
+[2018.04.02-18.49.49:973][943]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_BlockerFD4C525245937DF62D69E8ADC6DE7259.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-18.49.49:976][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-18.49.53:543][220]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.49.53:574][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.49.53:574][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.49.53:574][220]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:49:53 AM)
+[2018.04.02-18.49.53:575][220]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.49.53:581][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005866s)
+[2018.04.02-18.49.53:581][220]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.49.53:582][220]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2018.04.02-18.49.53:582][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007273s)
+[2018.04.02-18.49.53:606][220]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.49.53:622][220]LogInit: FAudioDevice initialized.
+[2018.04.02-18.49.53:658][220]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.49.53:661][220]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.49.53
+[2018.04.02-18.49.53:662][220]LogWorld: Bringing up level for play took: 0.002359
+[2018.04.02-18.49.53:688][220]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap 0.961
+[2018.04.02-18.49.53:688][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.50.05:081][129]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-32.77 Y=-1590.54 Z=0.00 Location: X=20685.48 Y=-11559.99 Z=-899.51 Normal: X=-0.01 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.50.06:596][265]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-0.55 Y=-7.31 Z=0.00 Location: X=20639.99 Y=-12831.73 Z=-708.73 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (44 other events since notify)
+[2018.04.02-18.50.07:601][362]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.01 Y=-58.73 Z=0.00 Location: X=20639.99 Y=-12831.73 Z=-708.73 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (39 other events since notify)
+[2018.04.02-18.50.12:488][795]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=25.04 Y=-605.07 Z=0.00 Location: X=20548.15 Y=-21329.14 Z=-1236.85 Normal: X=0.15 Y=-0.99 Z=-0.00 PenetrationDepth:20.759 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (59 other events since notify)
+[2018.04.02-18.50.14:935][961]Cmd: RestartLevel
+[2018.04.02-18.50.14:950][962]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-18.50.14:963][962]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-18.50.14:992][962]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.50.14:997][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004832s)
+[2018.04.02-18.50.14:997][962]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.50.14:997][962]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.04.02-18.50.14:998][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006038s)
+[2018.04.02-18.50.14:998][962]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.50.15:001][962]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.50.15
+[2018.04.02-18.50.15:001][962]LogWorld: Bringing up level for play took: 0.002545
+[2018.04.02-18.50.15:029][962]LogLoad: Took 0.066507 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-18.50.15:945][ 22]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=43.57 Y=0.00 Z=0.00 Location: X=1047.39 Y=0.00 Z=103.62 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (29 other events since notify)
+[2018.04.02-18.50.16:948][ 93]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=170.90 Y=-37.94 Z=0.00 Location: X=1047.39 Y=0.00 Z=103.62 Normal: X=0.92 Y=-0.39 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (66 other events since notify)
+[2018.04.02-18.50.17:953][172]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=48.91 Y=0.00 Z=0.00 Location: X=1308.76 Y=-15.75 Z=142.83 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (61 other events since notify)
+[2018.04.02-18.50.18:346][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.50.18:399][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.50.25:150][787]LogRenderer: Reallocating scene render targets to support 1316x756 Format 10 NumSamples 1 (Frame:1).
+[2018.04.02-18.51.21:283][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_32.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.02-18.51.23:370][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.DESTROYED_BP_Blocker_C_CHILDACTOR_71.StaticMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.02-18.51.26:914][601]LogSavePackage: Save=60.92ms
+[2018.04.02-18.51.26:914][601]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_BlockerFB1E5431427E2B2410E14CB09AF8934F.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-18.51.26:919][601]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-18.51.27:760][645]BlueprintLog: New page: Compile BP_Blocker
+[2018.04.02-18.51.28:674][658]LogSavePackage: Save=61.29ms
+[2018.04.02-18.51.28:674][658]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_Blocker8307189442F6DD58D08C809F73EFA3F0.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-18.51.28:676][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-18.51.30:623][800]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.51.30:672][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.51.30:672][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.51.30:672][800]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:51:30 AM)
+[2018.04.02-18.51.30:672][800]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.51.30:677][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005069s)
+[2018.04.02-18.51.30:678][800]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.51.30:678][800]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.04.02-18.51.30:678][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006256s)
+[2018.04.02-18.51.30:702][800]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.51.30:716][800]LogInit: FAudioDevice initialized.
+[2018.04.02-18.51.30:748][800]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.51.30:750][800]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.51.30
+[2018.04.02-18.51.30:750][800]LogWorld: Bringing up level for play took: 0.001917
+[2018.04.02-18.51.30:774][800]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap 0.047
+[2018.04.02-18.51.30:775][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.51.41:363][375]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.51.41:945][408]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-9.35 Y=-1560.75 Z=0.00 Location: X=16276.27 Y=-8004.82 Z=-772.70 Normal: X=0.03 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.51.43:826][526]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=28.27 Y=-1572.30 Z=0.00 Location: X=16314.19 Y=-11572.84 Z=-562.49 Normal: X=0.08 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (21 other events since notify)
+[2018.04.02-18.51.44:838][590]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=14.10 Y=-120.07 Z=0.00 Location: X=16313.16 Y=-11741.60 Z=-537.22 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (56 other events since notify)
+[2018.04.02-18.51.45:953][661]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=-12.87 Z=0.00 Location: X=16313.16 Y=-11741.60 Z=-537.22 Normal: X=0.17 Y=-0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (37 other events since notify)
+[2018.04.02-18.51.46:957][725]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=-23.66 Z=0.00 Location: X=16313.16 Y=-11741.60 Z=-537.22 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (30 other events since notify)
+[2018.04.02-18.51.48:615][829]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=-13.72 Z=0.00 Location: X=16313.21 Y=-12945.43 Z=-356.66 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (49 other events since notify)
+[2018.04.02-18.51.53:056][ 81]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=15.81 Y=-1.59 Z=0.00 Location: X=16496.04 Y=-20450.06 Z=-902.09 Normal: X=0.99 Y=-0.14 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (22 other events since notify)
+[2018.04.02-18.51.56:711][291]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1480.52 Y=531.56 Z=0.00 Location: X=22440.48 Y=-20200.84 Z=-567.44 Normal: X=0.71 Y=0.71 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (13 other events since notify)
+[2018.04.02-18.51.57:826][364]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1.70 Y=0.08 Z=0.00 Location: X=22484.69 Y=-20165.39 Z=-560.81 Normal: X=0.76 Y=0.65 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (41 other events since notify)
+[2018.04.02-18.51.59:006][448]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=61.45 Y=69.48 Z=0.00 Location: X=23764.96 Y=-19682.06 Z=-368.73 Normal: X=0.83 Y=-0.56 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (13 other events since notify)
+[2018.04.02-18.52.00:802][565]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=254.58 Y=-19.80 Z=0.00 Location: X=25510.11 Y=-19942.84 Z=-281.95 Normal: X=1.00 Y=-0.08 Z=-0.00 PenetrationDepth:20.761 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (34 other events since notify)
+[2018.04.02-18.52.01:871][642]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=325.39 Y=-0.76 Z=0.00 Location: X=26763.28 Y=-19943.36 Z=-93.89 Normal: X=1.00 Y=-0.01 Z=-0.00 PenetrationDepth:15.334 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (24 other events since notify)
+[2018.04.02-18.52.15:138][445]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=21.54 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (20 other events since notify)
+[2018.04.02-18.52.16:150][481]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=22.10 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-18.52.17:159][517]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=22.60 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-18.52.18:166][553]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=44.37 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-18.52.19:177][589]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=43.86 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-18.52.20:183][625]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=46.30 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (25 other events since notify)
+[2018.04.02-18.52.21:188][661]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=23.59 Z=0.00 Location: X=38522.19 Y=-1554.60 Z=108.15 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-18.52.21:543][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.52.21:589][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.52.48:681][425]BlueprintLog: New page: Compile BP_FloorTile_LeftTurn
+[2018.04.02-18.52.49:718][448]LogSavePackage: Save=127.70ms
+[2018.04.02-18.52.49:718][448]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurn4F3011A146B5446624DE26A9D3E7E2CA.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-18.52.49:723][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-18.52.51:902][620]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.52.51:942][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.52.51:942][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.52.51:942][620]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:52:51 AM)
+[2018.04.02-18.52.51:942][620]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.52.51:949][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006590s)
+[2018.04.02-18.52.51:950][620]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.52.51:950][620]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.04.02-18.52.51:950][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.008028s)
+[2018.04.02-18.52.51:979][620]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.52.51:994][620]LogInit: FAudioDevice initialized.
+[2018.04.02-18.52.52:029][620]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.52.52:031][620]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.52.52
+[2018.04.02-18.52.52:031][620]LogWorld: Bringing up level for play took: 0.001760
+[2018.04.02-18.52.52:053][620]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.674
+[2018.04.02-18.52.52:054][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.52.58:559][122]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=18.75 Y=0.00 Z=0.00 Location: X=18943.85 Y=-13.00 Z=-843.17 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.52.59:570][165]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=42.60 Y=34.83 Z=0.00 Location: X=18943.85 Y=-13.00 Z=-843.17 Normal: X=0.90 Y=0.44 Z=-0.00 PenetrationDepth:20.759 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (40 other events since notify)
+[2018.04.02-18.53.03:136][331]Cmd: RestartLevel
+[2018.04.02-18.53.03:156][332]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-18.53.03:174][332]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-18.53.03:201][332]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.53.03:206][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005109s)
+[2018.04.02-18.53.03:207][332]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.53.03:208][332]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2018.04.02-18.53.03:208][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006587s)
+[2018.04.02-18.53.03:208][332]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.53.03:210][332]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.53.03
+[2018.04.02-18.53.03:211][332]LogWorld: Bringing up level for play took: 0.002156
+[2018.04.02-18.53.03:235][332]LogLoad: Took 0.060663 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-18.53.04:131][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.53.04:181][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.53.41:296][479]LogSavePackage: Save=151.31ms
+[2018.04.02-18.53.41:299][479]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurnF76C754249196B307F03B6B624F858DF.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-18.53.41:302][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-18.54.53:580][997]LogSavePackage: Save=175.66ms
+[2018.04.02-18.54.53:580][997]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurn9C86D78E4684C7373CDF759F3D40BCAC.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-18.54.53:586][997]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-18.54.54:330][ 26]BlueprintLog: New page: Compile BP_FloorTile_LeftTurn
+[2018.04.02-18.55.21:673][392]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Hit (StaticMesh)  and was replaced as a Custom Event!
+[2018.04.02-18.55.23:306][459]LogEditorTransaction: Undo Paste clipboard contents
+[2018.04.02-18.55.35:800][128]LogSavePackage: Save=160.36ms
+[2018.04.02-18.55.35:800][128]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurnF0641CCB4F84C98AE33B309DA33AAE9A.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.55.35:807][128]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.55.36:353][155]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-18.55.37:472][176]LogSavePackage: Save=161.35ms
+[2018.04.02-18.55.37:472][176]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn4703C2CE4101C0A9FA344F968C7FB59C.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.55.37:475][176]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.55.40:488][390]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.55.40:525][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.55.40:525][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.55.40:525][390]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:55:40 AM)
+[2018.04.02-18.55.40:525][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.55.40:531][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005839s)
+[2018.04.02-18.55.40:532][390]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.55.40:532][390]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.04.02-18.55.40:532][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007205s)
+[2018.04.02-18.55.40:565][390]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.55.40:582][390]LogInit: FAudioDevice initialized.
+[2018.04.02-18.55.40:617][390]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.55.40:620][390]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.55.40
+[2018.04.02-18.55.40:620][390]LogWorld: Bringing up level for play took: 0.002320
+[2018.04.02-18.55.40:647][390]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.08
+[2018.04.02-18.55.40:648][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.55.50:384][  7]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-43.95 Y=1560.21 Z=0.00 Location: X=18642.09 Y=5588.60 Z=19.87 Normal: X=-0.11 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.55.51:383][ 66]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-122.41 Y=1544.11 Z=0.00 Location: X=18573.42 Y=6253.11 Z=119.51 Normal: X=-0.22 Y=0.97 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (33 other events since notify)
+[2018.04.02-18.55.53:662][204]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-46.45 Y=1580.68 Z=0.00 Location: X=18523.54 Y=11701.47 Z=586.79 Normal: X=-0.17 Y=0.98 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (1 other events since notify)
+[2018.04.02-18.55.54:960][271]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.55.58:625][506]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=20.93 Z=0.00 Location: X=18526.06 Y=24446.31 Z=1081.83 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (3 other events since notify)
+[2018.04.02-18.55.59:632][546]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=140.56 Z=0.00 Location: X=18526.06 Y=24446.31 Z=1081.83 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (37 other events since notify)
+[2018.04.02-18.56.00:637][586]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=0.00 Y=22.11 Z=0.00 Location: X=18526.06 Y=24446.31 Z=1081.83 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (36 other events since notify)
+[2018.04.02-18.56.04:131][751]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.56.04:324][761]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1447.05 Y=-550.30 Z=0.00 Location: X=24255.03 Y=24328.88 Z=809.74 Normal: X=0.71 Y=-0.71 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (18 other events since notify)
+[2018.04.02-18.56.06:118][856]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=11.60 Y=0.00 Z=0.00 Location: X=25387.13 Y=24083.33 Z=979.59 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (14 other events since notify)
+[2018.04.02-18.56.13:035][269]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=558.57 Y=1173.03 Z=0.00 Location: X=38952.83 Y=24535.32 Z=718.15 Normal: X=0.30 Y=0.95 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (20 other events since notify)
+[2018.04.02-18.56.14:499][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.56.14:550][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.56.14:658][354]Cmd: SELECT NONE
+[2018.04.02-18.57.36:508][334]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-18.57.38:321][354]LogSavePackage: Save=193.81ms
+[2018.04.02-18.57.38:321][354]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurnB1472AF44F0B34E91508A4915D33E875.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.57.38:328][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.57.46:734][800]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-18.57.48:080][820]LogSavePackage: Save=200.06ms
+[2018.04.02-18.57.48:080][820]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn1485343B4B31F91E5BBB4CA1727B0269.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.57.48:087][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.57.51:692][ 18]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-18.57.52:751][ 22]LogSavePackage: Save=197.89ms
+[2018.04.02-18.57.52:751][ 22]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurnE68BD7A74E36E40C10BB42BB112F4D7F.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.57.52:759][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.58.17:933][463]LogSavePackage: Save=153.53ms
+[2018.04.02-18.58.17:933][463]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurnF7E6E96143553B078C9599A125806665.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.58.17:941][463]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.58.18:556][495]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-18.58.20:654][587]LogSavePackage: Save=170.98ms
+[2018.04.02-18.58.20:654][587]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn1596EF3F4E176F59F5DBA78CCCE9D4B7.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.58.20:657][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.58.22:500][744]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.58.22:537][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.58.22:537][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.58.22:537][744]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:58:22 AM)
+[2018.04.02-18.58.22:537][744]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.58.22:545][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007258s)
+[2018.04.02-18.58.22:545][744]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.58.22:546][744]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.04.02-18.58.22:546][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.008431s)
+[2018.04.02-18.58.22:577][744]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.58.22:593][744]LogInit: FAudioDevice initialized.
+[2018.04.02-18.58.22:628][744]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.58.22:630][744]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.58.22
+[2018.04.02-18.58.22:631][744]LogWorld: Bringing up level for play took: 0.002006
+[2018.04.02-18.58.22:661][744]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.066
+[2018.04.02-18.58.22:662][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.58.36:630][784]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-18.58.36:993][810]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-4.87 Y=-1606.55 Z=0.00 Location: X=24652.89 Y=-14730.36 Z=-323.86 Normal: X=-0.03 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-18.58.38:183][921]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-1.51 Y=-8.60 Z=0.00 Location: X=24652.89 Y=-14959.67 Z=-289.56 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (23 other events since notify)
+[2018.04.02-18.58.39:475][ 45]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-0.42 Y=-6.65 Z=0.00 Location: X=24626.34 Y=-16106.18 Z=-117.53 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (19 other events since notify)
+[2018.04.02-18.58.53:035][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.58.53:076][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.59.17:958][762]LogSavePackage: Save=164.10ms
+[2018.04.02-18.59.17:958][762]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn20748BA0470E6C5CB54B5E863A4FB60C.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.59.17:967][762]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.59.18:502][787]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-18.59.19:734][791]LogSavePackage: Save=210.48ms
+[2018.04.02-18.59.19:734][791]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn99E345F7441E8B33DA5CD988883345CD.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-18.59.19:738][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-18.59.21:775][941]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-18.59.21:811][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.59.21:811][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-18.59.21:811][941]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 10:59:21 AM)
+[2018.04.02-18.59.21:811][941]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.59.21:816][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004805s)
+[2018.04.02-18.59.21:817][941]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.59.21:817][941]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2018.04.02-18.59.21:817][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.005824s)
+[2018.04.02-18.59.21:845][941]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-18.59.21:860][941]LogInit: FAudioDevice initialized.
+[2018.04.02-18.59.21:892][941]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.59.21:895][941]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.59.21
+[2018.04.02-18.59.21:895][941]LogWorld: Bringing up level for play took: 0.001983
+[2018.04.02-18.59.21:920][941]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.807
+[2018.04.02-18.59.21:920][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.59.22:770][994]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=44.27 Y=0.00 Z=0.00 Location: X=1044.50 Y=0.00 Z=103.17 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (24 other events since notify)
+[2018.04.02-18.59.24:081][ 93]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=18.22 Y=-22.29 Z=0.00 Location: X=2324.52 Y=-225.31 Z=295.18 Normal: X=0.98 Y=0.17 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (21 other events since notify)
+[2018.04.02-18.59.40:553][335]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-7.05 Y=-9.94 Z=0.00 Location: X=20588.52 Y=-22444.13 Z=-76.85 Normal: X=0.00 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (26 other events since notify)
+[2018.04.02-18.59.41:647][402]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-39.40 Y=-0.29 Z=0.00 Location: X=20584.46 Y=-22444.38 Z=-76.85 Normal: X=-1.00 Y=-0.01 Z=-0.00 PenetrationDepth:20.761 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (31 other events since notify)
+[2018.04.02-18.59.44:416][595]Cmd: RestartLevel
+[2018.04.02-18.59.44:426][596]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-18.59.44:440][596]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-18.59.44:468][596]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-18.59.44:473][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004759s)
+[2018.04.02-18.59.44:474][596]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-18.59.44:474][596]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.04.02-18.59.44:474][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006113s)
+[2018.04.02-18.59.44:474][596]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-18.59.44:477][596]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-14.59.44
+[2018.04.02-18.59.44:478][596]LogWorld: Bringing up level for play took: 0.002871
+[2018.04.02-18.59.44:501][596]LogLoad: Took 0.061944 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-18.59.44:621][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-18.59.44:675][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.26:006][970]LogSavePackage: Save=152.78ms
+[2018.04.02-19.00.26:006][970]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn2CE17ED44CC20F8B077C9EA9A32B9701.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-19.00.26:012][970]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-19.00.26:827][  9]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-19.00.28:014][ 26]LogSavePackage: Save=160.84ms
+[2018.04.02-19.00.28:014][ 26]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn483144F94EEAD35073AE158F495FB199.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-19.00.28:018][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-19.00.29:950][171]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-19.00.29:993][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.29:993][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-19.00.29:993][171]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 11:00:29 AM)
+[2018.04.02-19.00.29:993][171]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.00.29:999][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005773s)
+[2018.04.02-19.00.30:000][171]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.00.30:000][171]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2018.04.02-19.00.30:000][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007035s)
+[2018.04.02-19.00.30:029][171]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-19.00.30:044][171]LogInit: FAudioDevice initialized.
+[2018.04.02-19.00.30:076][171]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.00.30:080][171]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-15.00.30
+[2018.04.02-19.00.30:080][171]LogWorld: Bringing up level for play took: 0.002909
+[2018.04.02-19.00.30:102][171]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.625
+[2018.04.02-19.00.30:103][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.31:069][237]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.31:126][237]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.40:506][702]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-19.00.40:544][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.40:544][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-19.00.40:544][702]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 11:00:40 AM)
+[2018.04.02-19.00.40:544][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.00.40:549][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004597s)
+[2018.04.02-19.00.40:549][702]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.00.40:550][702]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.04.02-19.00.40:550][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.005737s)
+[2018.04.02-19.00.40:577][702]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-19.00.40:591][702]LogInit: FAudioDevice initialized.
+[2018.04.02-19.00.40:627][702]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.00.40:629][702]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-15.00.40
+[2018.04.02-19.00.40:629][702]LogWorld: Bringing up level for play took: 0.001897
+[2018.04.02-19.00.40:650][702]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.077
+[2018.04.02-19.00.40:650][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.00.53:242][400]Cmd: RestartLevel
+[2018.04.02-19.00.53:260][401]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.00.53:261][401]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.00.53:292][401]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.00.53:297][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004683s)
+[2018.04.02-19.00.53:297][401]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.00.53:298][401]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.04.02-19.00.53:298][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.005868s)
+[2018.04.02-19.00.53:298][401]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.00.53:301][401]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-15.00.53
+[2018.04.02-19.00.53:301][401]LogWorld: Bringing up level for play took: 0.002402
+[2018.04.02-19.00.53:329][401]LogLoad: Took 0.068069 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.00.55:130][499]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=876.30 Y=303.60 Z=0.00 Location: X=3067.12 Y=-301.23 Z=106.56 Normal: X=0.71 Y=0.71 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-19.00.56:538][575]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=213.69 Y=0.00 Z=0.00 Location: X=4148.45 Y=-301.23 Z=268.75 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (23 other events since notify)
+[2018.04.02-19.01.08:156][204]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=51.82 Y=-250.26 Z=0.00 Location: X=18952.31 Y=-6.68 Z=897.39 Normal: X=1.00 Y=0.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (6 other events since notify)
+[2018.04.02-19.01.11:285][381]Cmd: RestartLevel
+[2018.04.02-19.01.11:303][382]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.01.11:322][382]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.01.11:354][382]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.01.11:359][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004849s)
+[2018.04.02-19.01.11:360][382]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.01.11:360][382]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.04.02-19.01.11:360][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006232s)
+[2018.04.02-19.01.11:360][382]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.01.11:363][382]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 0) at 2018.04.02-15.01.11
+[2018.04.02-19.01.11:364][382]LogWorld: Bringing up level for play took: 0.002425
+[2018.04.02-19.01.11:389][382]LogLoad: Took 0.066688 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.01.20:625][848]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1305.58 Y=584.66 Z=0.00 Location: X=20952.34 Y=-297.41 Z=13.15 Normal: X=0.68 Y=0.73 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-19.01.25:545][ 83]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-13.50 Y=1570.02 Z=0.00 Location: X=20895.72 Y=7640.97 Z=452.72 Normal: X=-0.05 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (1 other events since notify)
+[2018.04.02-19.01.26:561][133]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=14.47 Y=95.20 Z=0.00 Location: X=20886.39 Y=8465.05 Z=576.30 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (25 other events since notify)
+[2018.04.02-19.01.29:223][258]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-6.15 Y=155.11 Z=0.00 Location: X=20689.29 Y=10936.74 Z=772.04 Normal: X=-0.10 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (6 other events since notify)
+[2018.04.02-19.01.31:324][362]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.01.31:373][362]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.06.13:434][720]LogSavePackage: Save=168.25ms
+[2018.04.02-19.06.13:434][720]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn6B9565E8463F605523E672B4C04FE49A.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-19.06.13:444][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-19.06.14:399][771]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-19.06.15:455][789]LogSavePackage: Save=149.36ms
+[2018.04.02-19.06.15:455][789]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn096448AA4FC199A8CA187CB4F5502186.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-19.06.15:458][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-19.06.34:522][929]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-19.06.34:571][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.06.34:572][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-19.06.34:572][929]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 11:06:34 AM)
+[2018.04.02-19.06.34:572][929]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.06.34:579][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007373s)
+[2018.04.02-19.06.34:580][929]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.06.34:581][929]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2018.04.02-19.06.34:581][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.009096s)
+[2018.04.02-19.06.34:612][929]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-19.06.34:626][929]LogInit: FAudioDevice initialized.
+[2018.04.02-19.06.34:659][929]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.06.34:661][929]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.06.34
+[2018.04.02-19.06.34:662][929]LogWorld: Bringing up level for play took: 0.001823
+[2018.04.02-19.06.34:684][929]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.043
+[2018.04.02-19.06.34:685][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.06.37:085][ 71]Cmd: RestartLevel
+[2018.04.02-19.06.37:102][ 72]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.06.37:102][ 72]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.06.37:131][ 72]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.06.37:137][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005907s)
+[2018.04.02-19.06.37:137][ 72]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.06.37:137][ 72]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.04.02-19.06.37:138][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007050s)
+[2018.04.02-19.06.37:138][ 72]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.06.37:140][ 72]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.06.37
+[2018.04.02-19.06.37:141][ 72]LogWorld: Bringing up level for play took: 0.002012
+[2018.04.02-19.06.37:166][ 72]LogLoad: Took 0.064320 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.06.38:827][170]LogAudio: Warning: Detected orphaned looping sound 'Light01_Cue'.
+[2018.04.02-19.06.48:814][769]Cmd: RestartLevel
+[2018.04.02-19.06.48:828][770]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.06.48:828][770]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.06.48:858][770]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.06.48:863][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004593s)
+[2018.04.02-19.06.48:863][770]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.06.48:863][770]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.04.02-19.06.48:864][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.005806s)
+[2018.04.02-19.06.48:864][770]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.06.48:867][770]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.06.48
+[2018.04.02-19.06.48:867][770]LogWorld: Bringing up level for play took: 0.002320
+[2018.04.02-19.06.48:891][770]LogLoad: Took 0.063123 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.06.51:284][913]Cmd: RestartLevel
+[2018.04.02-19.06.51:300][914]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.06.51:301][914]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.06.51:329][914]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.06.51:335][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004968s)
+[2018.04.02-19.06.51:335][914]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.06.51:336][914]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.04.02-19.06.51:336][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006111s)
+[2018.04.02-19.06.51:336][914]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.06.51:339][914]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.06.51
+[2018.04.02-19.06.51:340][914]LogWorld: Bringing up level for play took: 0.002783
+[2018.04.02-19.06.51:363][914]LogLoad: Took 0.062280 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.06.54:058][ 75]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=1379.63 Y=-478.73 Z=0.00 Location: X=5868.63 Y=-270.37 Z=71.79 Normal: X=0.71 Y=-0.70 Z=0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-19.06.56:626][229]Cmd: RestartLevel
+[2018.04.02-19.06.56:642][230]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.06.56:642][230]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.06.56:675][230]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.06.56:681][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006228s)
+[2018.04.02-19.06.56:682][230]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.06.56:682][230]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.04.02-19.06.56:682][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007687s)
+[2018.04.02-19.06.56:682][230]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.06.56:687][230]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.06.56
+[2018.04.02-19.06.56:688][230]LogWorld: Bringing up level for play took: 0.004413
+[2018.04.02-19.06.56:719][230]LogLoad: Took 0.076578 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.07.08:289][923]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-26.83 Y=1568.65 Z=0.00 Location: X=18772.13 Y=9049.18 Z=363.96 Normal: X=-0.11 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-19.07.09:591][  1]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-67.78 Y=1561.32 Z=0.00 Location: X=18719.34 Y=10010.71 Z=508.19 Normal: X=-0.13 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (42 other events since notify)
+[2018.04.02-19.07.11:239][100]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=171.14 Y=85.13 Z=0.00 Location: X=18628.42 Y=11326.65 Z=565.64 Normal: X=-0.14 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (49 other events since notify)
+[2018.04.02-19.07.13:423][231]Cmd: RestartLevel
+[2018.04.02-19.07.13:439][232]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.07.13:439][232]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.07.13:477][232]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.07.13:483][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006170s)
+[2018.04.02-19.07.13:484][232]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.07.13:484][232]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.04.02-19.07.13:484][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007679s)
+[2018.04.02-19.07.13:485][232]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.07.13:488][232]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.07.13
+[2018.04.02-19.07.13:489][232]LogWorld: Bringing up level for play took: 0.003468
+[2018.04.02-19.07.13:517][232]LogLoad: Took 0.077739 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.07.23:583][835]Cmd: RestartLevel
+[2018.04.02-19.07.23:599][836]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.07.23:600][836]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.07.23:629][836]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.07.23:634][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005280s)
+[2018.04.02-19.07.23:635][836]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.07.23:635][836]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.04.02-19.07.23:635][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006666s)
+[2018.04.02-19.07.23:635][836]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.07.23:638][836]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.07.23
+[2018.04.02-19.07.23:639][836]LogWorld: Bringing up level for play took: 0.002538
+[2018.04.02-19.07.23:665][836]LogLoad: Took 0.064718 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.07.24:160][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.07.24:203][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.07.35:300][505]LogEditorTransaction: Undo Move Node
+[2018.04.02-19.07.36:188][542]LogEditorTransaction: Undo Delete current selection
+[2018.04.02-19.07.37:243][583]LogSavePackage: Save=155.95ms
+[2018.04.02-19.07.37:243][583]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn696E13504660F615D0790CA660B95474.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-19.07.37:249][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-19.07.38:042][627]BlueprintLog: New page: Compile BP_FloorTile_RightTurn
+[2018.04.02-19.07.38:935][638]LogSavePackage: Save=151.68ms
+[2018.04.02-19.07.38:936][638]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_RightTurn22307DB044D5E7DBCF95A099EF6FA8D3.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset'
+[2018.04.02-19.07.38:938][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_RightTurn.uasset
+[2018.04.02-19.09.06:192][430]BlueprintLog: New page: Compile BP_FloorTile_LeftTurn
+[2018.04.02-19.09.07:400][430]LogSavePackage: Save=162.78ms
+[2018.04.02-19.09.07:400][430]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurn78BEF02642107EFE2B076E92032271E2.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-19.09.07:406][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-19.09.09:752][552]LogSavePackage: Save=143.55ms
+[2018.04.02-19.09.09:752][552]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurn55B9492E406A91D3682FC8828F12C428.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-19.09.09:755][552]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-19.09.49:756][841]LogSavePackage: Save=156.59ms
+[2018.04.02-19.09.49:756][841]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurn4138A7F9498F69710514849DAA9E5140.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-19.09.49:763][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-19.09.51:237][919]BlueprintLog: New page: Compile BP_FloorTile_LeftTurn
+[2018.04.02-19.09.52:426][925]LogSavePackage: Save=197.02ms
+[2018.04.02-19.09.52:427][925]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_FloorTile_LeftTurnB69E1BE043ECA52C535E3E9187626B45.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset'
+[2018.04.02-19.09.52:430][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_LeftTurn.uasset
+[2018.04.02-19.09.55:548][107]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-19.09.55:590][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.09.55:591][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-19.09.55:591][107]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 11:09:55 AM)
+[2018.04.02-19.09.55:591][107]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.09.55:595][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004609s)
+[2018.04.02-19.09.55:596][107]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.09.55:596][107]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.04.02-19.09.55:597][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.005874s)
+[2018.04.02-19.09.55:625][107]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-19.09.55:642][107]LogInit: FAudioDevice initialized.
+[2018.04.02-19.09.55:673][107]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.09.55:675][107]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.09.55
+[2018.04.02-19.09.55:676][107]LogWorld: Bringing up level for play took: 0.001891
+[2018.04.02-19.09.55:697][107]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap 0.97
+[2018.04.02-19.09.55:697][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.10.04:504][632]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=983.50 Y=681.41 Z=0.00 Location: X=20945.63 Y=135.57 Z=1753.15 Normal: X=0.69 Y=0.72 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-19.10.06:731][764]Cmd: RestartLevel
+[2018.04.02-19.10.06:747][765]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.10.06:764][765]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.10.06:796][765]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.10.06:802][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006080s)
+[2018.04.02-19.10.06:803][765]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.10.06:803][765]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.04.02-19.10.06:803][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007433s)
+[2018.04.02-19.10.06:803][765]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.10.06:806][765]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.10.06
+[2018.04.02-19.10.06:807][765]LogWorld: Bringing up level for play took: 0.002354
+[2018.04.02-19.10.06:833][765]LogLoad: Took 0.068339 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.10.17:570][408]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-43.61 Y=1563.43 Z=0.00 Location: X=24685.40 Y=2834.04 Z=-553.32 Normal: X=-0.16 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.04.02-19.10.18:571][468]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-106.72 Y=1563.63 Z=0.00 Location: X=24642.03 Y=3405.27 Z=-467.67 Normal: X=-0.16 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (40 other events since notify)
+[2018.04.02-19.10.19:571][528]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=-66.41 Y=1568.22 Z=0.00 Location: X=24626.27 Y=3879.97 Z=-396.46 Normal: X=-0.12 Y=0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (46 other events since notify)
+[2018.04.02-19.10.40:123][761]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=40.99 Y=-1698.81 Z=0.00 Location: X=6248.44 Y=7430.90 Z=-1933.06 Normal: X=0.16 Y=-0.99 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (41 other events since notify)
+[2018.04.02-19.10.41:407][838]LogCharacterMovement: CHris_char is stuck and failed to move! Velocity: X=17.22 Y=-1706.68 Z=0.00 Location: X=6278.45 Y=5813.16 Z=-1690.39 Normal: X=0.04 Y=-1.00 Z=-0.00 PenetrationDepth:20.760 Actor:Bucket_BP_52 Component:StaticMesh BoneName:None (28 other events since notify)
+[2018.04.02-19.10.47:200][164]Cmd: RestartLevel
+[2018.04.02-19.10.47:219][165]LogNet: Browse: /Game/ThirdPersonBP/Maps/ProceduralMap?restart
+[2018.04.02-19.10.47:238][165]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ProceduralMap
+[2018.04.02-19.10.47:273][165]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.10.47:279][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005997s)
+[2018.04.02-19.10.47:280][165]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.10.47:280][165]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2018.04.02-19.10.47:281][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.007573s)
+[2018.04.02-19.10.47:281][165]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.10.47:284][165]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.10.47
+[2018.04.02-19.10.47:285][165]LogWorld: Bringing up level for play took: 0.002858
+[2018.04.02-19.10.47:314][165]LogLoad: Took 0.076546 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap)
+[2018.04.02-19.10.47:388][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.10.47:449][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.10.49:168][247]LogSavePackage: Save=254.14ms
+[2018.04.02-19.10.49:168][247]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/ProceduralMap6A8F33DB4D723476702C069A4916BD93.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap.umap'
+[2018.04.02-19.10.49:175][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap.umap
+[2018.04.02-19.10.49:291][247]LogSavePackage: Save=12.74ms
+[2018.04.02-19.10.49:291][247]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/ProceduralMap_BuiltDataC3FA62C04C72560FD1B13FAF501BF689.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap_BuiltData.uasset'
+[2018.04.02-19.10.49:294][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap_BuiltData.uasset
+[2018.04.02-19.11.07:196][277]LogSavePackage: Save=60.16ms
+[2018.04.02-19.11.07:196][277]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_BlockerA385D5474EC7A7D7B139568FCFDE1CCA.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-19.11.07:202][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-19.11.08:264][327]BlueprintLog: New page: Compile BP_Blocker
+[2018.04.02-19.11.11:806][510]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-19.11.11:847][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.11.11:847][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-19.11.11:847][510]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 11:11:11 AM)
+[2018.04.02-19.11.11:847][510]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.11.11:852][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004675s)
+[2018.04.02-19.11.11:853][510]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.11.11:853][510]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.04.02-19.11.11:853][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.005959s)
+[2018.04.02-19.11.11:880][510]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-19.11.11:895][510]LogInit: FAudioDevice initialized.
+[2018.04.02-19.11.11:932][510]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.11.11:934][510]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.11.11
+[2018.04.02-19.11.11:935][510]LogWorld: Bringing up level for play took: 0.001889
+[2018.04.02-19.11.11:959][510]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap -0.769
+[2018.04.02-19.11.11:959][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.11.16:733][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.11.16:783][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.12.06:028][425]LogSavePackage: Save=80.53ms
+[2018.04.02-19.12.06:028][425]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_Blocker5B9023C940A41846F7AF81A3E7EB55A8.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-19.12.06:036][425]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-19.12.07:377][495]BlueprintLog: New page: Compile BP_Blocker
+[2018.04.02-19.12.07:397][495]LogBlueprint: Error: [Compiler BP_Blocker] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.04.02-19.12.07:572][495]LogBlueprint: Warning: [Compiler BP_Blocker] [1680.73] Compile of BP_Blocker failed. 1 Fatal Issue(s) 0 Warning(s) [in 194 ms] (/Game/ThirdPersonBP/Blueprints/BP_Blocker.BP_Blocker)
+[2018.04.02-19.12.08:110][517]LogSavePackage: Save=78.85ms
+[2018.04.02-19.12.08:110][517]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/BP_Blocker5269EBCC48B7BC18A4225EBBAFC5A874.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset'
+[2018.04.02-19.12.08:113][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Blueprints/BP_Blocker.uasset
+[2018.04.02-19.12.42:505][422]BlueprintLog: New page: Compile BP_Blocker
+[2018.04.02-19.12.42:528][422]LogBlueprint: Error: [Compiler BP_Blocker] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.04.02-19.12.42:685][422]LogBlueprint: Warning: [Compiler BP_Blocker] [1715.85] Compile of BP_Blocker failed. 1 Fatal Issue(s) 0 Warning(s) [in 179 ms] (/Game/ThirdPersonBP/Blueprints/BP_Blocker.BP_Blocker)
+[2018.04.02-19.13.00:023][300]BlueprintLog: New page: Compile BP_Blocker
+[2018.04.02-19.13.04:699][543]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.02-19.13.04:740][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.13.04:740][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.02-19.13.04:740][543]PIE: New page: PIE session: ProceduralMap (Apr 2, 2018, 11:13:04 AM)
+[2018.04.02-19.13.04:740][543]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap
+[2018.04.02-19.13.04:745][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005061s)
+[2018.04.02-19.13.04:746][543]LogAIModule: Creating AISystem for world ProceduralMap
+[2018.04.02-19.13.04:746][543]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.04.02-19.13.04:747][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap (0.006484s)
+[2018.04.02-19.13.04:775][543]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.02-19.13.04:793][543]LogInit: FAudioDevice initialized.
+[2018.04.02-19.13.04:832][543]LogLoad: Game class is 'RunGameMode_C'
+[2018.04.02-19.13.04:836][543]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap.ProceduralMap up for play (max tick rate 60) at 2018.04.02-15.13.04
+[2018.04.02-19.13.04:837][543]LogWorld: Bringing up level for play took: 0.003752
+[2018.04.02-19.13.04:871][543]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ProceduralMap 0.144
+[2018.04.02-19.13.04:871][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.13.14:067][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.13.14:131][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ProceduralMap.ProceduralMap:PersistentLevel.ProceduralMap'
+[2018.04.02-19.13.15:659][137]LogSavePackage: Save=227.71ms
+[2018.04.02-19.13.15:659][137]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/ProceduralMap1CBC4046408846BC29DEE690DC1BA8B9.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap.umap'
+[2018.04.02-19.13.15:666][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap.umap
+[2018.04.02-19.13.15:777][137]LogSavePackage: Save=11.22ms
+[2018.04.02-19.13.15:777][137]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Saved/ProceduralMap_BuiltDataC2094C1A4E8C5B2A71F082B1810D73AF.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap_BuiltData.uasset'
+[2018.04.02-19.13.15:780][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game1 (Rishabh Git Repo)/Water-Run/WaterRunner/Content/ThirdPersonBP/Maps/ProceduralMap_BuiltData.uasset
